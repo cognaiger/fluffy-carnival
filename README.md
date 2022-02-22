@@ -1,3 +1,3 @@
-# fluffy-carnival
+# test-readme
 my first repository
-my name is ngoc and i'm testing repository
+today i will learn how to change these
